@@ -1,4 +1,4 @@
-# AskDocAI - Professional AI-Powered Document Assistant
+# LearnMate - Professional AI-Powered Document Assistant
 
 A complete end-to-end RAG (Retrieval-Augmented Generation) system for intelligent PDF Q&A with multilingual support.
 

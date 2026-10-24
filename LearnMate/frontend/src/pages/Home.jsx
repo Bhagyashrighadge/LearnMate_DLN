@@ -19,7 +19,7 @@ const Home = ({ onStartChat }) => {
                 </span>
               </div>
               <h1 className={`text-5xl sm:text-6xl font-bold tracking-tight ${isDark ? 'text-white' : 'text-slate-900'}`}>
-                AskDocAI
+                LearnMate
               </h1>
               <p className={`text-xl leading-relaxed ${isDark ? 'text-slate-300' : 'text-slate-600'}`}>
                 Upload PDF documents and unlock instant intelligent insights. Ask questions, get precise answers, and master your documents faster with AI-powered assistance.

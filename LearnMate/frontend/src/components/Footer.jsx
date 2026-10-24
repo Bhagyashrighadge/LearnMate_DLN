@@ -15,7 +15,7 @@ const Footer = () => {
                 📄
               </div>
               <span className={`font-bold text-lg ${isDark ? 'text-white' : 'text-slate-900'}`}>
-                AskDocAI
+                LearnMate
               </span>
             </div>
             <p className={`text-sm ${isDark ? 'text-slate-400' : 'text-slate-600'}`}>
@@ -66,7 +66,7 @@ const Footer = () => {
         <div className={`border-t ${isDark ? 'border-slate-700' : 'border-slate-200'} pt-8`}>
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <p className={`text-sm ${isDark ? 'text-slate-500' : 'text-slate-600'}`}>
-              © 2026 AskDocAI. All rights reserved. Powered by advanced AI and RAG technology.
+              © 2026 LearnMate. All rights reserved. Powered by advanced AI and RAG technology.
             </p>
             <div className="flex gap-4">
               <a href="#" className={`text-sm transition-colors ${isDark ? 'text-slate-500 hover:text-slate-300' : 'text-slate-600 hover:text-slate-900'}`}>

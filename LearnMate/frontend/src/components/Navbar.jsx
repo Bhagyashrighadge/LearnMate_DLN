@@ -15,7 +15,7 @@ const Navbar = () => {
               </div>
               <div className="flex flex-col">
                 <span className={`text-xl font-bold tracking-tight ${isDark ? 'text-white' : 'text-slate-900'}`}>
-                  AskDocAI
+                  LearnMate
                 </span>
                 <span className={`text-xs font-medium ${isDark ? 'text-slate-400' : 'text-slate-500'}`}>
                   Smart Document Intelligence

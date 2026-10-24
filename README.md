@@ -1,8 +1,8 @@
-# AskDocAI - Smart Document Assistant (RAG Chatbot)
+# LearnMate
 Deep Learning Networks (DLN) Research Challenge & Prototype
 
 ## Project Overview
-This repository contains the complete implementation of **AskDocAI**, an intelligent, multilingual Retrieval-Augmented Generation (RAG) assistant for querying PDF documents in English, Hindi, and Marathi.
+This repository contains the complete implementation of **LearnMate**, an intelligent, multilingual Retrieval-Augmented Generation (RAG) assistant for querying PDF documents in English, Hindi, and Marathi.
 
 ## Core Modules & Directory Layout
 - **`LearnMate/`**: The complete production-grade application:
